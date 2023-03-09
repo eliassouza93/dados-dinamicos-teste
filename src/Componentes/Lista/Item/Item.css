@@ -1,0 +1,15 @@
+
+
+.caixa{
+    max-width: 50%;
+    margin: auto;
+    border: 5px solid;
+    margin-top: 5px;
+    border-radius: 5px;
+   
+}
+.caixa h5{
+   padding: 5px;
+   display: inline-block;
+   
+}

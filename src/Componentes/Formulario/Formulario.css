@@ -1,0 +1,14 @@
+
+
+.formulario{
+    max-width: 50%;
+    margin: auto;
+
+}
+.formulario input{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    box-shadow: 8px 8px 16px rgba(0,0,0, 0.20);
+
+}
