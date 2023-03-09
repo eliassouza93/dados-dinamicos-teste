@@ -1,9 +1,11 @@
-
+*{
+    box-sizing: border-box;
+}
 
 .caixa{
-    max-width: 50%;
-    margin: auto;
+    width: 70%;
     border: 5px solid;
+    margin: auto;
     margin-top: 5px;
     border-radius: 5px;
    
